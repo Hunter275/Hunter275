@@ -1,6 +1,6 @@
 ## Hi there, I'm Hunter 👋
 
-- ❤️ I like working with: Web, Python, and, DevOps (and a <ins>lot</ins> of other things)
+- ❤️ I like working with: Web, Python, and DevOps (and a <ins>lot</ins> of other things)
 - 🗺️ Current role: GIS Software Engineer
 - 👨‍💻 I work on: [Meshtastic](https://github.com/meshtastic/web)
 - ⏰ My timezone: UTC-4 (US Eastern)
