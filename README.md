@@ -2,7 +2,7 @@
 
 - ❤️ I like working with: Web, Python, and DevOps (and a <ins>lot</ins> of other things)
 - 🗺️ Current role: GIS Software Engineer
-- 👨‍💻 Currently working on: Learning FPV drones (mainly crashing them)
+- 👨‍💻 Currently working on: Run8 (Train Sim) Controller
 - 🕒 Formely worked on: [Meshtastic](https://github.com/meshtastic/web)
 - ⏰ My timezone: UTC-4 (US Eastern)
 - 😜 Fun Fact: Casio Watch Collector
